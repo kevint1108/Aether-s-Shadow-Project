@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/thien/Downloads/Senior/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/thien/Downloads/YT_HealthAndDamage_Ep4Checkpoint/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/thien/Downloads/YT_HealthAndDamage_Ep4Checkpoint/Content/Blueprints/Checkpoint/BP_Checkpoint.uasset",
+				"C:/Users/thien/Downloads/YT_HealthAndDamage_Ep4Checkpoint/Content/Blueprints/SaveGame/BP_SaveGame.uasset",
+				"C:/Users/thien/Downloads/YT_HealthAndDamage_Ep4Checkpoint/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HC/FZ90CK5Z0GQPO1I4IJQBEY.uasset",
+				"C:/Users/thien/Downloads/YT_HealthAndDamage_Ep4Checkpoint/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/F9/SNEH0AF16B21QQKU78CJGV.uasset",
+				"C:/Users/thien/Downloads/YT_HealthAndDamage_Ep4Checkpoint/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/thien/Downloads/YT_HealthAndDamage_Ep4Checkpoint/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+			]
+		}
+	]
+}
